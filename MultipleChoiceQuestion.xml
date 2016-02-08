@@ -10,9 +10,6 @@
 	<defaultgrade>1</defaultgrade>
 	<answer fraction="100">
 		<text>Ceci est la bonne réponse</text>
-		<feedback>
-			<text>Bravo !</text>
-		</feedback>
 	</answer>
 	<answer fraction="0">
 		<text>Une mauvaise réponse</text>
